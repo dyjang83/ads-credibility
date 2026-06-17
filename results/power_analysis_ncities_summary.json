@@ -1,0 +1,10 @@
+{
+  "fixed_per_city_claims": 40.0,
+  "target_power": 0.8,
+  "min_K_vs_euclidean": 8,
+  "min_K_vs_independent": 4,
+  "four_city_power_vs_euclidean": 0.61,
+  "four_city_power_vs_independent": 0.82375,
+  "null_max_power_vs_euclidean": 0.41625,
+  "note": "Single-run LOCO detection probability under a structured DGP where the learned kernel is correctly specified, at fixed per-city volume. min_K is the smallest deployed footprint at which one LOCO evaluation favors the learned kernel with the target probability. The null DGP (independent city effects) is a specificity check: detection probability must stay near chance regardless of K."
+}

@@ -1,0 +1,11 @@
+# Real-data fetcher dependencies (in addition to the main repo requirements).
+# These are intentionally light: no GDAL, no geopandas, no osmnx.
+requests>=2.31
+h3>=4.0
+shapely>=2.0
+networkx>=3.0
+numpy>=1.24
+pandas>=2.0
+pyarrow>=14.0      # for caching FARS accident files as parquet
+xlrd>=2.0.1        # for reading legacy FHWA .xls workbooks
+openpyxl>=3.1      # for reading .xlsx workbooks

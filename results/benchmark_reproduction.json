@@ -1,0 +1,44 @@
+{
+  "overall_ads_freq": 5.594827586206897,
+  "overall_hdv_freq": 2.9514749974327685,
+  "overall_reduction_vs_hdv": -0.8956039238256637,
+  "by_city": [
+    {
+      "city": "San Francisco",
+      "ads_claims": 254,
+      "ads_exposure_million_miles": 36.37,
+      "ads_freq_per_million_miles": 6.983777838878197,
+      "hdv_freq_per_million_miles": 4.0565779791597745,
+      "reduction_vs_hdv": -0.7215933909705647
+    },
+    {
+      "city": "Phoenix",
+      "ads_claims": 135,
+      "ads_exposure_million_miles": 46.62,
+      "ads_freq_per_million_miles": 2.8957528957528957,
+      "hdv_freq_per_million_miles": 2.486955793449847,
+      "reduction_vs_hdv": -0.16437650535636372
+    },
+    {
+      "city": "Los Angeles",
+      "ads_claims": 186,
+      "ads_exposure_million_miles": 25.719999999999995,
+      "ads_freq_per_million_miles": 7.2317262830482125,
+      "hdv_freq_per_million_miles": 2.7864323448204606,
+      "reduction_vs_hdv": -1.5953353206263392
+    },
+    {
+      "city": "Austin",
+      "ads_claims": 74,
+      "ads_exposure_million_miles": 7.29,
+      "ads_freq_per_million_miles": 10.150891632373114,
+      "hdv_freq_per_million_miles": 2.4753841028900414,
+      "reduction_vs_hdv": -3.1007339509540452
+    }
+  ],
+  "comparison_to_paper": {
+    "di_lillo_pd_reduction": 0.88,
+    "di_lillo_bi_reduction": 0.92,
+    "our_combined_reduction": -0.8956039238256637
+  }
+}

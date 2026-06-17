@@ -1,0 +1,16 @@
+{
+  "embedding_participation_ratio": 4.750353813171387,
+  "embedding_cum_var_pc1": 0.3899446725845337,
+  "embedding_cum_var_pc2": 0.5354860424995422,
+  "embedding_cum_var_pc5": 0.8302345871925354,
+  "pearson_learned_hdv": 0.5759637085469355,
+  "pearson_learned_eu": 0.6374804003576934,
+  "pearson_hdv_eu": 0.9508572000507787,
+  "loco_hdv_only_total": -29.573702331226094,
+  "loco_hdv_only_per_city": {
+    "San Francisco": -7.043699888887854,
+    "Phoenix": -5.870834272055546,
+    "Los Angeles": -8.269640261914539,
+    "Austin": -8.389527908368155
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "benchmark_reduction_vs_hdv": -0.8956039238256637,
+  "worst_rhat_indep": 1.0,
+  "worst_rhat_gp": 1.0,
+  "loco_total_logp": {
+    "logp_pool": -133.15933070221513,
+    "logp_indep_re": -28.189111651930272,
+    "logp_gp_euclid": -30.232276807262657,
+    "logp_gp_learned": -30.165706147378973
+  },
+  "best_model_by_loco": "logp_indep_re"
+}

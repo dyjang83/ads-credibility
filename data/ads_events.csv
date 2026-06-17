@@ -1,0 +1,22 @@
+city,version,period,exposure_million_miles,claims,claims_source
+Austin,"5th Generation ADS, Version 10",0,1.458,6,nhtsa_sgo
+Austin,"5th Generation ADS, Version 10",1,1.458,13,nhtsa_sgo
+Austin,"5th Generation ADS, Version 10",2,1.458,25,nhtsa_sgo
+Austin,"5th Generation ADS, Version 10",3,1.458,27,nhtsa_sgo
+Austin,"5th Generation ADS, Version 9",0,1.458,3,nhtsa_sgo
+Los Angeles,"5th Generation ADS, Version 10",0,3.674285714285714,8,nhtsa_sgo
+Los Angeles,"5th Generation ADS, Version 10",1,3.674285714285714,46,nhtsa_sgo
+Los Angeles,"5th Generation ADS, Version 10",2,3.674285714285714,69,nhtsa_sgo
+Los Angeles,"5th Generation ADS, Version 10",3,3.674285714285714,59,nhtsa_sgo
+Los Angeles,"5th Generation ADS, Version 10",4,3.674285714285714,2,nhtsa_sgo
+Los Angeles,"5th Generation ADS, Version 9",0,3.674285714285714,1,nhtsa_sgo
+Los Angeles,"6th Generation ADS, Version 10",3,3.674285714285714,1,nhtsa_sgo
+Phoenix,"5th Generation ADS, Version 10",0,9.324,14,nhtsa_sgo
+Phoenix,"5th Generation ADS, Version 10",1,9.324,26,nhtsa_sgo
+Phoenix,"5th Generation ADS, Version 10",2,9.324,55,nhtsa_sgo
+Phoenix,"5th Generation ADS, Version 10",3,9.324,39,nhtsa_sgo
+Phoenix,"5th Generation ADS, Version 9",0,9.324,1,nhtsa_sgo
+San Francisco,"5th Generation ADS, Version 10",0,9.0925,17,nhtsa_sgo
+San Francisco,"5th Generation ADS, Version 10",1,9.0925,65,nhtsa_sgo
+San Francisco,"5th Generation ADS, Version 10",2,9.0925,103,nhtsa_sgo
+San Francisco,"5th Generation ADS, Version 10",3,9.0925,69,nhtsa_sgo

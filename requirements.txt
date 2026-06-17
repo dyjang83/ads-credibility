@@ -1,0 +1,21 @@
+# Core inference
+numpyro>=0.15
+jax>=0.4.20
+jaxlib>=0.4.20
+
+# Data + ML
+numpy>=1.24
+pandas>=2.0
+torch>=2.0
+scikit-learn>=1.3
+arviz>=0.17
+
+# Figures
+matplotlib>=3.7
+
+# Geospatial (fetchers)
+h3>=4.0
+shapely>=2.0
+requests>=2.31
+networkx>=3.0
+pyarrow>=14.0

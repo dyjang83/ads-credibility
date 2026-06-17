@@ -1,0 +1,7 @@
+{
+  "final_loss": 4.295244646072388,
+  "median_pairwise_dist2": 0.9497417211532593,
+  "length_scale_squared": 0.685093835616578,
+  "n_cells_trained": 5239,
+  "embed_dim": 32
+}

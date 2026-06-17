@@ -1,0 +1,24 @@
+{
+  "feature_columns": [
+    "road_length_arterial_km",
+    "road_length_collector_km",
+    "road_length_local_km",
+    "intersection_density_per_km2",
+    "signalized_intersection_fraction",
+    "betweenness_centrality_mean",
+    "population_density_per_km2",
+    "pedestrian_commute_share",
+    "land_use_residential_share",
+    "land_use_commercial_share",
+    "historical_crash_density_per_mile"
+  ],
+  "embed_dim": 32,
+  "hidden_dim": 64,
+  "batch_size": 256,
+  "epochs": 40,
+  "learning_rate": 0.003,
+  "weight_decay": 1e-05,
+  "temperature": 0.1,
+  "tolerance": 0.1,
+  "seed": 20260525
+}

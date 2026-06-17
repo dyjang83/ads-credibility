@@ -1,0 +1,12 @@
+{
+  "loco_setup": "deployed-only (hold out 1 of 4 deployed cities, train on the other 3) \u2014 matches Section 6.5",
+  "mean_threshold_learned_vs_euclidean": 65.5425,
+  "mean_threshold_learned_vs_independent": 13.335,
+  "single_realization_threshold_learned_vs_euclidean": null,
+  "single_realization_threshold_learned_vs_independent": null,
+  "null_dgp_max_learned_minus_eu_mean": -0.0048586531849008205,
+  "null_dgp_learned_ever_positive": false,
+  "detectability_rule_mean": "smallest expected-claim volume where mean - 2*SE > 0",
+  "detectability_rule_single": "smallest volume where the per-replicate 2.5% quantile of the advantage exceeds 0 (a single LOCO run reliably favours the learned kernel)",
+  "note": "The MEAN threshold is small (learned wins on average past a few tens of claims IF the city effects follow the learned covariance). The SINGLE-REALIZATION threshold is much larger, and at the four-city granularity is not reached at any tested volume: one 4-fold LOCO cannot resolve the modest mean advantage. Section 6.5 is one such 4-fold run, so its tie among the random-effects kernels is fully consistent with this power analysis \u2014 the kernel comparison needs many held-out units (per-cell, Section 6.6), not four city aggregates."
+}

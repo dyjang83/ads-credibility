@@ -1,0 +1,12 @@
+{
+  "seed": 20260525,
+  "n_cities_deployed": 4,
+  "n_cities_hypothetical": 3,
+  "n_versions": 5,
+  "n_periods": 8,
+  "n_cells": 2800,
+  "total_ads_miles_millions": 25.299999999999997,
+  "total_ads_claims": 7,
+  "total_hdv_miles_millions": 4176.630929166283,
+  "total_hdv_claims": 12927
+}

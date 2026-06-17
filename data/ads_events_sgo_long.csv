@@ -1,0 +1,702 @@
+report_id,operator,engaged,incident_month,municipality,state,metro,version,severity
+30270-12011,Waymo LLC,True,2025-10-01,Mountain View,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12007,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11998,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11996,Waymo LLC,True,2025-10-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11997,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Unknown
+30270-11994,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11995,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11992,Waymo LLC,True,2025-10-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11987,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11962,Waymo LLC,True,2025-10-01,Mountain View,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11936,Waymo LLC,True,2025-10-01,San Mateo,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11951,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11940,Waymo LLC,True,2025-10-01,Burlingame,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11930,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11931,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11929,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11926,Waymo LLC,True,2025-10-01,South San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11908,Waymo LLC,True,2025-10-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11925,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12012,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-12013,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12050,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-13060,Waymo LLC,True,2025-11-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-13062,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13080,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13055,Waymo LLC,True,2025-11-01,South San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13054,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13058,Waymo LLC,True,2025-11-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13024,Waymo LLC,True,2025-11-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12054,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12055,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13023,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12061,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11924,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12048,Waymo LLC,True,2025-11-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-12051,Waymo LLC,True,2025-11-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-12060,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12047,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12049,Waymo LLC,True,2025-11-01,South San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12059,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12052,Waymo LLC,True,2025-10-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12053,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12045,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12044,Waymo LLC,True,2025-10-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12018,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12035,Waymo LLC,True,2025-10-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12056,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11904,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11905,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11892,Waymo LLC,True,2025-10-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11695,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11692,Waymo LLC,True,2025-09-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11839,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11884,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11874,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11883,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11864,Waymo LLC,True,2025-10-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11861,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-11701,Waymo LLC,True,2025-09-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11859,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",No Injured Reported
+30270-11860,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11863,Waymo LLC,True,2025-10-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11855,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11838,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11841,Waymo LLC,True,2025-10-01,Atlanta,GA,,"5th Generation ADS, Version 10",Moderate W/ Hospitalization
+30270-11837,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11842,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11836,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11858,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13063,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11698,Waymo LLC,True,2025-09-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11716,Waymo LLC,True,2025-09-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11888,Waymo LLC,True,2025-10-01,Redwood City,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11850,Waymo LLC,True,2025-09-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11765,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11853,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11761,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11840,Waymo LLC,True,2025-09-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Unknown
+30270-11759,Waymo LLC,True,2025-09-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11718,Waymo LLC,True,2025-09-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11717,Waymo LLC,True,2025-09-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11702,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11715,Waymo LLC,True,2025-09-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11769,Waymo LLC,True,2025-09-01,West Hollywood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11831,Waymo LLC,True,2025-09-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11886,Waymo LLC,True,2025-10-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11795,Waymo LLC,True,2025-09-01,Daly City,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11790,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11768,Waymo LLC,True,2025-09-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11851,Waymo LLC,True,2025-09-01,South San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11852,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11805,Waymo LLC,True,2025-09-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11763,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11724,Waymo LLC,True,2025-09-01,Inglewood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13064,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13081,Waymo LLC,True,2025-11-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13300,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13287,Waymo LLC,True,2025-12-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13278,Waymo LLC,True,2025-12-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13277,Waymo LLC,True,2025-12-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13267,Waymo LLC,True,2025-12-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13246,Waymo LLC,True,2025-11-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13244,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13243,Waymo LLC,True,2025-11-01,West Hollywood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13242,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13241,Waymo LLC,True,2025-11-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13240,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13239,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13202,Waymo LLC,True,2025-11-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13194,Waymo LLC,True,2025-11-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13197,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13193,Waymo LLC,True,2025-11-01,Culver City,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13192,Waymo LLC,True,2025-11-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-13190,Waymo LLC,True,2025-11-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13198,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Unknown
+30270-13167,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Unknown
+30270-13161,Waymo LLC,True,2025-11-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Moderate W/ Hospitalization
+30270-13274,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13247,Waymo LLC,True,2025-11-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13204,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13135,Waymo LLC,True,2025-11-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13199,Waymo LLC,True,2025-11-01,West Hollywood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13312,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13311,Waymo LLC,True,2025-12-01,Marina del Rey,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13201,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13102,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13095,Waymo LLC,True,2025-11-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13148,Waymo LLC,True,2025-11-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13238,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13066,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13082,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13084,Waymo LLC,True,2025-11-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13099,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13325,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13326,Waymo LLC,True,2025-12-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13324,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13320,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13301,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13303,Waymo LLC,True,2025-12-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13302,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13085,Waymo LLC,True,2025-11-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13159,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13160,Waymo LLC,True,2025-11-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13137,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11954,Waymo LLC,True,2025-10-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11932,Waymo LLC,True,2025-10-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13053,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11956,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11953,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12019,Waymo LLC,True,2025-10-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12046,Waymo LLC,True,2025-10-01,Daly City,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12000,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11960,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11988,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11999,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11928,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11958,Waymo LLC,True,2025-10-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11906,Waymo LLC,True,2025-10-01,Mountain View,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11882,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13089,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13067,Waymo LLC,True,2025-11-01,Culver City,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13065,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-13079,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13025,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13068,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11907,Waymo LLC,True,2025-10-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11957,Waymo LLC,True,2025-10-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13133,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13144,Waymo LLC,True,2025-11-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13130,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13128,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13127,Waymo LLC,True,2025-11-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13126,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13100,Waymo LLC,True,2025-11-01,Mountain View,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11887,Waymo LLC,True,2025-10-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11955,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11933,Waymo LLC,True,2025-10-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13092,Waymo LLC,True,2025-11-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13093,Waymo LLC,True,2025-11-01,Dallas,TX,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13096,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12070,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",No Injured Reported
+30270-13026,Waymo LLC,True,2025-10-01,Washington,DC,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13028,Waymo LLC,True,2025-10-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12063,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12062,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12042,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-12008,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11949,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11865,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",No Injured Reported
+30270-13206,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11806,Waymo LLC,True,2025-09-01,Atlanta,GA,,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-11400,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11383,Waymo LLC,True,2025-07-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11384,Waymo LLC,True,2025-07-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11378,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11373,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11372,Waymo LLC,True,2025-07-01,Inglewood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11370,Waymo LLC,True,2025-07-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11330,Waymo LLC,True,2025-07-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11329,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11323,Waymo LLC,True,2025-07-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11302,Waymo LLC,True,2025-07-01,nan,nan,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11295,Waymo LLC,True,2025-06-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11291,Waymo LLC,True,2025-06-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11220,Waymo LLC,True,2025-06-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11214,Waymo LLC,True,2025-06-01,Guadalupe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11213,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11163,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11420,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11417,Waymo LLC,True,2025-07-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11413,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11360,Waymo LLC,True,2025-07-01,West Hollywood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11333,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11344,Waymo LLC,True,2025-07-01,West Hollywood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11328,Waymo LLC,True,2025-07-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11334,Waymo LLC,True,2025-07-01,Mesa,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11500,Waymo LLC,True,2025-08-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11495,Waymo LLC,True,2025-08-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11475,Waymo LLC,True,2025-08-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11490,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11474,Waymo LLC,True,2025-08-01,West Hollywood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11476,Waymo LLC,True,2025-08-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11469,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11456,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11433,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-11450,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Moderate W/O Hospitalization
+30270-11432,Waymo LLC,True,2025-07-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11430,Waymo LLC,True,2025-07-01,Inglewood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11424,Waymo LLC,True,2025-07-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11297,Waymo LLC,True,2025-06-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 9",Property Damage. No Injured Reported
+30270-11298,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11250,Waymo LLC,True,2025-06-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11284,Waymo LLC,True,2025-07-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11281,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11282,Waymo LLC,True,2025-07-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11280,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11279,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11273,Waymo LLC,True,2025-07-01,Inglewood,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11247,Waymo LLC,True,2025-06-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11249,Waymo LLC,True,2025-06-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11246,Waymo LLC,True,2025-06-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11238,Waymo LLC,True,2025-06-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11244,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11224,Waymo LLC,True,2025-06-01,Mesa,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11218,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11192,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-11204,Waymo LLC,True,2025-06-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",No Injured Reported
+30270-11190,Waymo LLC,True,2025-06-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11209,Waymo LLC,True,2025-06-01,Chandler,AZ,Phoenix,"5th Generation ADS, Version 10",No Injured Reported
+30270-11205,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-11189,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11174,Waymo LLC,True,2025-06-01,Chandler,AZ,Phoenix,"5th Generation ADS, Version 10",No Injured Reported
+30270-11245,Waymo LLC,True,2025-06-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11362,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11206,Waymo LLC,True,2025-06-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11161,Waymo LLC,True,2025-06-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11239,Waymo LLC,True,2025-06-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11221,Waymo LLC,True,2025-06-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11195,Waymo LLC,True,2025-06-01,San Bruno,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11225,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11219,Waymo LLC,True,2025-06-01,Atlanta,GA,,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11194,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11276,Waymo LLC,True,2025-06-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11177,Waymo LLC,True,2025-06-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11175,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11167,Waymo LLC,True,2025-06-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11275,Waymo LLC,True,2025-06-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11171,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11217,Waymo LLC,True,2025-06-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11216,Waymo LLC,True,2025-06-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11193,Waymo LLC,True,2025-06-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11160,Waymo LLC,True,2025-06-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11212,Waymo LLC,True,2025-06-01,Austin,TX,Austin,"5th Generation ADS, Version 9",Minor W/O Hospitalization
+30270-11170,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11173,Waymo LLC,True,2025-06-01,Austin,TX,Austin,"5th Generation ADS, Version 9",Property Damage. No Injured Reported
+30270-11210,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11172,Waymo LLC,True,2025-06-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11208,Waymo LLC,True,2025-06-01,Austin,TX,Austin,"5th Generation ADS, Version 9",Property Damage. No Injured Reported
+30270-11162,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11207,Waymo LLC,True,2025-06-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 9",Property Damage. No Injured Reported
+30270-11196,Waymo LLC,True,2025-06-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11821,Waymo LLC,True,2025-09-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11401,Waymo LLC,True,2025-07-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11365,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11594,Waymo LLC,True,2025-08-01,Paradise Valley,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11622,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11671,Waymo LLC,True,2025-08-01,Culver City,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11611,Waymo LLC,True,2025-08-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11590,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11573,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11564,Waymo LLC,True,2025-08-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11548,Waymo LLC,True,2025-08-01,Inglewood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11550,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11561,Waymo LLC,True,2025-08-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11567,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11565,Waymo LLC,True,2025-08-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11621,Waymo LLC,True,2025-08-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11569,Waymo LLC,True,2025-08-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11542,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11523,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11522,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11498,Waymo LLC,True,2025-08-01,Mesa,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11496,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11664,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11607,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11672,Waymo LLC,True,2025-09-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11794,Waymo LLC,True,2025-09-01,Atlanta,GA,,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-11802,Waymo LLC,True,2025-09-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11792,Waymo LLC,True,2025-09-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11789,Waymo LLC,True,2025-09-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-11771,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11766,Waymo LLC,True,2025-09-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11762,Waymo LLC,True,2025-09-01,Inglewood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11637,Waymo LLC,True,2025-09-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11760,Waymo LLC,True,2025-09-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11742,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11739,Waymo LLC,True,2025-09-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11758,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11753,Waymo LLC,True,2025-09-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11755,Waymo LLC,True,2025-09-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11738,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11713,Waymo LLC,True,2025-09-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Fatality
+30270-11689,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11673,Waymo LLC,True,2025-08-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11756,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11627,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11452,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11472,Waymo LLC,True,2025-07-01,Miami Beach,FL,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11455,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11451,Waymo LLC,True,2025-07-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11468,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11428,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11426,Waymo LLC,True,2025-07-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11421,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11414,Waymo LLC,True,2025-07-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11422,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11379,Waymo LLC,True,2025-07-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11381,Waymo LLC,True,2025-07-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11467,Waymo LLC,True,2025-07-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11412,Waymo LLC,True,2025-07-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11404,Waymo LLC,True,2025-07-01,Beverly Hills,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11418,Waymo LLC,True,2025-07-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11361,Waymo LLC,True,2025-07-01,Mesa,AZ,Phoenix,"5th Generation ADS, Version 10",Unknown
+30270-11371,Waymo LLC,True,2025-07-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11402,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11374,Waymo LLC,True,2025-07-01,Inglewood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11415,Waymo LLC,True,2025-07-01,San Mateo,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11358,Waymo LLC,True,2025-07-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11501,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11629,Waymo LLC,True,2025-09-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11625,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11623,Waymo LLC,True,2025-09-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11618,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11609,Waymo LLC,True,2025-09-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11612,Waymo LLC,True,2025-09-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11608,Waymo LLC,True,2025-09-01,Culver City,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11605,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",No Injured Reported
+30270-11589,Waymo LLC,True,2025-08-01,Daly City,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11596,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11588,Waymo LLC,True,2025-08-01,Palo Alto,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11591,Waymo LLC,True,2025-08-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11571,Waymo LLC,True,2025-08-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11543,Waymo LLC,True,2025-08-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11544,Waymo LLC,True,2025-08-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11545,Waymo LLC,True,2025-08-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11547,Waymo LLC,True,2025-08-01,Culver City,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11546,Waymo LLC,True,2025-08-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11525,Waymo LLC,True,2025-08-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11516,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11508,Waymo LLC,True,2025-08-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13235,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13205,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13275,Waymo LLC,True,2025-11-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14093,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-14079,Waymo LLC,True,2026-02-01,San Jose,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14078,Waymo LLC,True,2026-02-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14076,Waymo LLC,True,2026-02-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-14075,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-14099,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14048,Waymo LLC,True,2026-02-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-14074,Waymo LLC,True,2026-02-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14046,Waymo LLC,True,2026-02-01,Philadelphia,PA,,"6th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14045,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14073,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14118,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14234,Waymo LLC,True,2026-03-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14227,Waymo LLC,True,2026-03-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14231,Waymo LLC,True,2026-03-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14220,Waymo LLC,True,2026-03-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",No Injured Reported
+30270-14204,Waymo LLC,True,2026-03-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14197,Waymo LLC,True,2026-03-01,Miami,FL,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14196,Waymo LLC,True,2026-03-01,San Antonio,TX,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14198,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14195,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14173,Waymo LLC,True,2026-02-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14171,Waymo LLC,True,2026-02-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14169,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14149,Waymo LLC,True,2026-02-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14140,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14146,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13664,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13587,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13766,Waymo LLC,True,2026-01-01,Venice,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13688,Waymo LLC,True,2026-01-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13657,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13623,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13658,Waymo LLC,True,2026-01-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13642,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14025,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14003,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Moderate W/ Hospitalization
+30270-13783,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14007,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13236,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14001,Waymo LLC,True,2026-02-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13999,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13985,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13983,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13976,Waymo LLC,True,2026-02-01,Orlando,FL,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13982,Waymo LLC,True,2026-02-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13975,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13957,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13956,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14002,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13794,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13811,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13578,Waymo LLC,True,2026-01-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13565,Waymo LLC,True,2026-01-01,Mesa,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13958,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13927,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13925,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13859,Waymo LLC,True,2026-01-01,San Jose,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13848,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13847,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13561,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13682,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13665,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13979,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14024,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14011,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14005,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14004,Waymo LLC,True,2026-02-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13973,Waymo LLC,True,2026-01-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13841,Waymo LLC,True,2026-01-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13840,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13820,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13795,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13606,Waymo LLC,True,2026-01-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14237,Waymo LLC,True,2026-03-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14239,Waymo LLC,True,2026-03-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14387,Waymo LLC,True,2026-03-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14348,Waymo LLC,True,2026-03-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14346,Waymo LLC,True,2026-03-01,San Antonio,TX,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14344,Waymo LLC,True,2026-03-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14345,Waymo LLC,True,2026-03-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14343,Waymo LLC,True,2026-03-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14335,Waymo LLC,True,2026-03-01,Miami,FL,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14384,Waymo LLC,True,2026-03-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14385,Waymo LLC,True,2026-03-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14331,Waymo LLC,True,2026-03-01,Mountain View,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14332,Waymo LLC,True,2026-03-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14330,Waymo LLC,True,2026-03-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-14336,Waymo LLC,True,2026-03-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14298,Waymo LLC,True,2026-03-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14333,Waymo LLC,True,2026-03-01,Dallas,TX,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14383,Waymo LLC,True,2026-03-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14389,Waymo LLC,True,2026-03-01,Inglewood,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-14390,Waymo LLC,True,2026-03-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14625,Waymo LLC,True,2026-03-01,Washington,DC,,"5th Generation ADS, Version 11",Minor W/O Hospitalization
+30270-14623,Waymo LLC,True,2026-04-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14578,Waymo LLC,True,2026-04-01,Venice,CA,Los Angeles,"5th Generation ADS, Version 10",No Injured Reported
+30270-14457,Waymo LLC,True,2026-03-01,Houston,TX,,"5th Generation ADS, Version 11",Property Damage. No Injured Reported
+30270-14441,Waymo LLC,True,2026-03-01,Orlando,FL,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14423,Waymo LLC,True,2026-03-01,Dallas,TX,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14425,Waymo LLC,True,2026-03-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14421,Waymo LLC,True,2026-03-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14420,Waymo LLC,True,2026-03-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14296,Waymo LLC,True,2026-03-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-14290,Waymo LLC,True,2026-03-01,Inglewood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14243,Waymo LLC,True,2026-02-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14174,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14168,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14201,Waymo LLC,True,2026-02-01,Orlando,FL,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14172,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14153,Waymo LLC,True,2026-02-01,Culver City,CA,Los Angeles,"6th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14151,Waymo LLC,True,2026-02-01,Nashville,TN,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13980,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13977,Waymo LLC,True,2026-02-01,Mountain View,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13978,Waymo LLC,True,2026-02-01,Lennox,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13998,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14000,Waymo LLC,True,2026-02-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13981,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14272,Waymo LLC,True,2026-03-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14271,Waymo LLC,True,2026-03-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14270,Waymo LLC,True,2026-03-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14268,Waymo LLC,True,2026-03-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14267,Waymo LLC,True,2026-03-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14266,Waymo LLC,True,2026-03-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14265,Waymo LLC,True,2026-03-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-14246,Waymo LLC,True,2026-03-01,Inglewood,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-14244,Waymo LLC,True,2026-03-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14240,Waymo LLC,True,2026-03-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14175,Waymo LLC,True,2026-02-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13955,Waymo LLC,True,2026-02-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Unknown
+30270-14274,Waymo LLC,True,2026-03-01,Dallas,TX,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14269,Waymo LLC,True,2026-03-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14225,Waymo LLC,True,2026-02-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14199,Waymo LLC,True,2026-02-01,Mountain View,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14143,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14081,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14098,Waymo LLC,True,2026-02-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14144,Waymo LLC,True,2026-02-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14080,Waymo LLC,True,2026-02-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14097,Waymo LLC,True,2026-02-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14141,Waymo LLC,True,2026-02-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14091,Waymo LLC,True,2026-02-01,Palo Alto,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14119,Waymo LLC,True,2026-02-01,Houston,TX,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14077,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14029,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14027,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14012,Waymo LLC,True,2026-02-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14008,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14009,Waymo LLC,True,2026-02-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14044,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14047,Waymo LLC,True,2026-02-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14006,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14304,Waymo LLC,True,2026-02-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14295,Waymo LLC,True,2026-03-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14287,Waymo LLC,True,2026-03-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13949,Waymo LLC,True,2026-02-01,Daly City,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13947,Waymo LLC,True,2026-01-01,Beverly Hills,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13546,Waymo LLC,True,2026-01-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13544,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13543,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13542,Waymo LLC,True,2025-12-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13541,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13540,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13539,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13538,Waymo LLC,True,2025-12-01,West Hollywood,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13514,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13513,Waymo LLC,True,2025-12-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13545,Waymo LLC,True,2026-01-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13512,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13495,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-13491,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-13490,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13506,Waymo LLC,True,2025-12-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13509,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13488,Waymo LLC,True,2025-12-01,Atlanta,GA,,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-13487,Waymo LLC,True,2025-12-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13486,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13485,Waymo LLC,True,2025-12-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13484,Waymo LLC,True,2025-12-01,Inglewood,CA,Los Angeles,"5th Generation ADS, Version 10",No Injured Reported
+30270-13507,Waymo LLC,True,2025-12-01,Brisbane,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13467,Waymo LLC,True,2025-12-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13547,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13550,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13586,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13585,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13954,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13558,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13581,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13582,Waymo LLC,True,2026-01-01,Venice,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13575,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13573,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13571,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13560,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13559,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13556,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13552,Waymo LLC,True,2026-01-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13583,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13452,Waymo LLC,True,2025-12-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13449,Waymo LLC,True,2025-12-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13444,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13268,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13276,Waymo LLC,True,2025-11-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13255,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13162,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13269,Waymo LLC,True,2025-11-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13091,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13056,Waymo LLC,True,2025-10-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Unknown
+30270-13256,Waymo LLC,True,2025-11-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13196,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13195,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13270,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13189,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13165,Waymo LLC,True,2025-11-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13164,Waymo LLC,True,2025-11-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13155,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13129,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13090,Waymo LLC,True,2025-11-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13088,Waymo LLC,True,2025-11-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13328,Waymo LLC,True,2025-12-01,Venice,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13254,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13251,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13250,Waymo LLC,True,2025-11-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13163,Waymo LLC,True,2025-11-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13310,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13373,Waymo LLC,True,2025-11-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13443,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13447,Waymo LLC,True,2025-12-01,Brisbane,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13442,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13399,Waymo LLC,True,2025-12-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13388,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13402,Waymo LLC,True,2025-12-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13396,Waymo LLC,True,2025-12-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13407,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13384,Waymo LLC,True,2025-12-01,South San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13371,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13372,Waymo LLC,True,2025-12-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-13370,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13369,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13378,Waymo LLC,True,2025-12-01,Palo Alto,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-13364,Waymo LLC,True,2025-12-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13363,Waymo LLC,True,2025-12-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13365,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13654,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13770,Waymo LLC,True,2026-01-01,Beverly Hills,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13769,Waymo LLC,True,2026-01-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13765,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13778,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13763,Waymo LLC,True,2026-01-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13762,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13656,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13636,Waymo LLC,True,2026-01-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13652,Waymo LLC,True,2026-01-01,Nashville,TN,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13650,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13607,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13663,Waymo LLC,True,2026-01-01,Del Valle,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13653,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13639,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13641,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13638,Waymo LLC,True,2026-01-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13611,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13610,Waymo LLC,True,2026-01-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13605,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/ Hospitalization
+30270-13604,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13810,Waymo LLC,True,2026-01-01,Sunnyvale,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13809,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13948,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13914,Waymo LLC,True,2026-01-01,Sunnyvale,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13905,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13903,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13881,Waymo LLC,True,2026-01-01,Houston,TX,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13877,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13860,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13852,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13846,Waymo LLC,True,2026-01-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13850,Waymo LLC,True,2026-01-01,Santa Monica,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-13845,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13844,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13843,Waymo LLC,True,2026-01-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13817,Waymo LLC,True,2026-01-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Unknown
+30270-13785,Waymo LLC,True,2026-01-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13764,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13799,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13807,Waymo LLC,True,2026-01-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13786,Waymo LLC,True,2026-01-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13511,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11146,Waymo LLC,True,2025-06-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13557,Waymo LLC,True,2025-12-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13445,Waymo LLC,True,2025-12-01,Palo Alto,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13279,Waymo LLC,True,2025-12-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13321,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13322,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13323,Waymo LLC,True,2025-12-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13309,Waymo LLC,True,2025-12-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13327,Waymo LLC,True,2025-12-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13361,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13331,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13416,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13308,Waymo LLC,True,2025-12-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13403,Waymo LLC,True,2025-12-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13405,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13408,Waymo LLC,True,2025-12-01,Tempe,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13409,Waymo LLC,True,2025-12-01,Chandler,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13395,Waymo LLC,True,2025-12-01,Beverly Hills,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13454,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13340,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13307,Waymo LLC,True,2025-12-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13489,Waymo LLC,True,2025-12-01,Scottsdale,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13379,Waymo LLC,True,2025-12-01,Washington,DC,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13401,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13400,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13549,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13554,Waymo LLC,True,2025-12-01,South San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13564,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13548,Waymo LLC,True,2025-12-01,Phoenix,AZ,Phoenix,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13515,Waymo LLC,True,2025-12-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13510,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13453,Waymo LLC,True,2025-12-01,Palo Alto,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13451,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13450,Waymo LLC,True,2025-12-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13471,Waymo LLC,True,2025-12-01,Miami,FL,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13420,Waymo LLC,True,2025-12-01,Palo Alto,CA,San Francisco,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13410,Waymo LLC,True,2025-12-01,Atlanta,GA,,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-13448,Waymo LLC,True,2025-12-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-14096,Waymo LLC,True,2026-02-01,Austin,TX,Austin,"5th Generation ADS, Version 10",Property Damage. No Injured Reported
+30270-11791,Waymo LLC,True,2025-09-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11849,Waymo LLC,True,2025-10-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Unknown
+30270-11488,Waymo LLC,True,2025-08-01,San Francisco,CA,San Francisco,"5th Generation ADS, Version 10",Minor W/O Hospitalization
+30270-11327,Waymo LLC,True,2025-07-01,Los Angeles,CA,Los Angeles,"5th Generation ADS, Version 10",Minor W/O Hospitalization
