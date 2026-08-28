@@ -6,12 +6,6 @@ phi: R^F -> R^d (with d = 32) is a 3-layer MLP with ReLU activations and a
 final L2-normalization layer. Positive pairs are cells whose HDV claim
 frequency lies within a 10% tolerance band; negatives are all other cells
 in the batch.
-
-Notation matches the paper:
-    L = - sum_i log [ exp(sim(phi(f_i), phi(f_{p(i)})) / tau)
-                      / sum_{k != i} exp(sim(phi(f_i), phi(f_k)) / tau) ]
-where sim is cosine similarity, tau is the temperature (0.1 by default),
-and p(i) selects a positive partner for cell i.
 """
 
 from __future__ import annotations
