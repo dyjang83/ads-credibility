@@ -1,0 +1,123 @@
+loaded /Users/student/Desktop/ads_credibility/results/decision/ppo_learned.pt
+loaded /Users/student/Desktop/ads_credibility/results/decision/ppo_independent.pt
+[structured] seed 0 done (98s)
+[structured] seed 1 done (192s)
+[structured] seed 2 done (281s)
+[identity_null] seed 0 done (376s)
+[identity_null] seed 1 done (472s)
+[identity_null] seed 2 done (566s)
+              dgp        agent          kernel  regret  regret_lo  regret_hi  p_shortfall  n_entered  final_abs_err    n
+0   identity_null        bayes       euclidean  35.300     33.018     37.581        0.062      1.250          0.392  600
+1   identity_null        bayes     independent  36.737     34.349     39.125        0.072      2.648          0.336  600
+2   identity_null        bayes         learned  34.918     32.033     37.803        0.073      1.425          0.421  600
+3   identity_null        bayes  learned_nugget  35.321     33.064     37.579        0.055      1.633          0.372  600
+4   identity_null           kg       euclidean  35.250     32.963     37.537        0.058      1.263          0.392  600
+5   identity_null           kg     independent  36.450     34.030     38.870        0.073      2.685          0.336  600
+6   identity_null           kg         learned  34.889     32.002     37.775        0.080      1.435          0.420  600
+7   identity_null           kg  learned_nugget  34.914     32.666     37.163        0.053      1.650          0.372  600
+8   identity_null       plugin       euclidean  34.169     31.853     36.484        0.055      1.485          0.389  600
+9   identity_null       plugin     independent  35.168     33.085     37.251        0.062      1.783          0.340  600
+10  identity_null       plugin         learned  34.811     31.979     37.644        0.080      1.470          0.420  600
+11  identity_null       plugin  learned_nugget  34.887     32.625     37.149        0.042      1.667          0.369  600
+12  identity_null          ppo     independent  33.308     31.114     35.502        0.060      2.027          0.336  600
+13  identity_null          ppo         learned  36.050     33.371     38.729        0.078      1.363          0.420  600
+14  identity_null       random         learned  75.808     71.448     80.167        0.267      5.030          0.416  600
+15  identity_null  round_robin         learned  49.052     45.408     52.697        0.158      2.900          0.398  600
+16  identity_null     thompson       euclidean  37.472     35.025     39.919        0.072      1.768          0.387  600
+17  identity_null     thompson     independent  37.892     35.417     40.367        0.088      2.578          0.335  600
+18  identity_null     thompson         learned  37.262     34.285     40.238        0.097      1.670          0.419  600
+19  identity_null     thompson  learned_nugget  37.196     34.783     39.610        0.058      2.007          0.369  600
+20  identity_null          ucb       euclidean  41.455     38.853     44.056        0.088      2.965          0.378  600
+21  identity_null          ucb     independent  45.879     43.219     48.539        0.102      4.222          0.325  600
+22  identity_null          ucb         learned  36.298     33.389     39.207        0.085      1.598          0.419  600
+23  identity_null          ucb  learned_nugget  42.144     39.520     44.768        0.100      3.415          0.358  600
+24     structured        bayes       euclidean  16.491     14.086     18.896        0.042      2.390          0.211  600
+25     structured        bayes     independent  21.807     19.632     23.982        0.055      2.362          0.233  600
+26     structured        bayes         learned  15.774     13.161     18.388        0.043      2.498          0.220  600
+27     structured        bayes  learned_nugget  16.294     14.225     18.363        0.038      2.433          0.202  600
+28     structured           kg       euclidean  16.877     14.482     19.272        0.042      2.367          0.211  600
+29     structured           kg     independent  21.652     19.448     23.856        0.060      2.383          0.233  600
+30     structured           kg         learned  15.445     12.828     18.063        0.043      2.498          0.220  600
+31     structured           kg  learned_nugget  16.186     14.091     18.282        0.035      2.443          0.201  600
+32     structured       plugin       euclidean  16.528     14.132     18.925        0.048      2.857          0.207  600
+33     structured       plugin     independent  22.585     20.444     24.727        0.032      2.015          0.237  600
+34     structured       plugin         learned  16.450     13.940     18.961        0.040      2.635          0.218  600
+35     structured       plugin  learned_nugget  18.403     16.243     20.563        0.040      2.872          0.200  600
+36     structured          ppo     independent  19.084     17.077     21.092        0.045      1.925          0.242  600
+37     structured          ppo         learned  17.275     15.084     19.465        0.027      1.938          0.223  600
+38     structured       random         learned  32.885     30.087     35.683        0.085      5.148          0.208  600
+39     structured  round_robin         learned  24.734     22.251     27.216        0.063      3.547          0.206  600
+40     structured     thompson       euclidean  17.223     15.088     19.358        0.040      2.653          0.208  600
+41     structured     thompson     independent  22.270     19.962     24.578        0.038      2.408          0.234  600
+42     structured     thompson         learned  18.506     15.909     21.104        0.042      2.612          0.217  600
+43     structured     thompson  learned_nugget  16.905     14.679     19.131        0.032      2.763          0.198  600
+44     structured          ucb       euclidean  22.693     20.255     25.131        0.045      4.167          0.199  600
+45     structured          ucb     independent  26.879     24.421     29.338        0.045      4.390          0.226  600
+46     structured          ucb         learned  16.800     14.323     19.277        0.037      2.540          0.217  600
+47     structured          ucb  learned_nugget  24.991     22.586     27.396        0.055      4.725          0.188  600
+              dgp     agent                        comparison  mean_regret_diff      lo      hi    n
+0   identity_null     bayes         learned_minus_independent            -1.819  -4.232   0.594  600
+1   identity_null     bayes           learned_minus_euclidean            -0.382  -2.481   1.718  600
+2   identity_null     bayes  learned_nugget_minus_independent            -1.415  -3.244   0.413  600
+3   identity_null     bayes      learned_nugget_minus_learned             0.403  -1.670   2.477  600
+4   identity_null        kg         learned_minus_independent            -1.561  -4.057   0.935  600
+5   identity_null        kg           learned_minus_euclidean            -0.361  -2.443   1.721  600
+6   identity_null        kg  learned_nugget_minus_independent            -1.536  -3.451   0.380  600
+7   identity_null        kg      learned_nugget_minus_learned             0.026  -2.111   2.162  600
+8   identity_null    plugin         learned_minus_independent            -0.356  -2.705   1.992  600
+9   identity_null    plugin           learned_minus_euclidean             0.643  -1.420   2.705  600
+10  identity_null    plugin  learned_nugget_minus_independent            -0.281  -2.026   1.464  600
+11  identity_null    plugin      learned_nugget_minus_learned             0.076  -1.951   2.102  600
+12  identity_null       ppo         learned_minus_independent             2.741   0.558   4.925  600
+13  identity_null  thompson         learned_minus_independent            -0.630  -3.181   1.920  600
+14  identity_null  thompson           learned_minus_euclidean            -0.210  -2.503   2.083  600
+15  identity_null  thompson  learned_nugget_minus_independent            -0.696  -2.680   1.289  600
+16  identity_null  thompson      learned_nugget_minus_learned            -0.065  -2.340   2.210  600
+17  identity_null       ucb         learned_minus_independent            -9.581 -12.067  -7.095  600
+18  identity_null       ucb           learned_minus_euclidean            -5.157  -7.218  -3.096  600
+19  identity_null       ucb  learned_nugget_minus_independent            -3.735  -5.663  -1.807  600
+20  identity_null       ucb      learned_nugget_minus_learned             5.846   3.650   8.043  600
+21     structured     bayes         learned_minus_independent            -6.033  -8.366  -3.701  600
+22     structured     bayes           learned_minus_euclidean            -0.717  -2.843   1.409  600
+23     structured     bayes  learned_nugget_minus_independent            -5.513  -7.502  -3.525  600
+24     structured     bayes      learned_nugget_minus_learned             0.520  -1.800   2.840  600
+25     structured        kg         learned_minus_independent            -6.207  -8.494  -3.920  600
+26     structured        kg           learned_minus_euclidean            -1.432  -3.559   0.696  600
+27     structured        kg  learned_nugget_minus_independent            -5.466  -7.453  -3.478  600
+28     structured        kg      learned_nugget_minus_learned             0.741  -1.542   3.024  600
+29     structured    plugin         learned_minus_independent            -6.135  -8.406  -3.863  600
+30     structured    plugin           learned_minus_euclidean            -0.078  -2.147   1.992  600
+31     structured    plugin  learned_nugget_minus_independent            -4.182  -6.009  -2.356  600
+32     structured    plugin      learned_nugget_minus_learned             1.953  -0.105   4.010  600
+33     structured       ppo         learned_minus_independent            -1.809  -3.783   0.164  600
+34     structured  thompson         learned_minus_independent            -3.764  -6.161  -1.366  600
+35     structured  thompson           learned_minus_euclidean             1.283  -0.894   3.461  600
+36     structured  thompson  learned_nugget_minus_independent            -5.365  -7.443  -3.286  600
+37     structured  thompson      learned_nugget_minus_learned            -1.601  -3.825   0.623  600
+38     structured       ucb         learned_minus_independent           -10.079 -12.359  -7.799  600
+39     structured       ucb           learned_minus_euclidean            -5.893  -8.019  -3.766  600
+40     structured       ucb  learned_nugget_minus_independent            -1.888  -3.846   0.070  600
+41     structured       ucb      learned_nugget_minus_learned             8.191   6.016  10.366  600
+[Q2] world 0 (0s)
+[Q2] world 25 (6s)
+[Q2] world 50 (11s)
+[Q2] world 75 (17s)
+[Q2] world 100 (22s)
+[Q2] world 125 (28s)
+          agent   k  median_quarter_reached  n_worlds_reached  p_win_learned_vs_independent  mean_adv_learned_vs_independent  p_win_learned_vs_euclidean  mean_adv_learned_vs_euclidean  p_win_learned_nugget_vs_independent  mean_adv_learned_nugget_vs_independent  p_win_learned_nugget_vs_euclidean_nugget  mean_adv_learned_nugget_vs_euclidean_nugget  frac_worlds_reached
+0         bayes   6                     4.0               142                         0.620                           -0.315                       0.458                         -1.252                                0.838                                   1.074                                     0.810                                        0.284                0.947
+1         bayes   8                    10.0               137                         0.511                           -1.899                       0.350                         -2.798                                0.898                                   1.514                                     0.818                                        0.367                0.913
+2         bayes  10                    14.5               122                         0.451                           -2.904                       0.320                         -3.709                                0.943                                   1.957                                     0.803                                        0.506                0.813
+3         bayes  12                    19.0               100                         0.430                           -4.302                       0.230                         -4.900                                0.930                                   2.534                                     0.820                                        0.672                0.667
+4            kg   6                     4.0               142                         0.620                           -0.214                       0.458                         -1.178                                0.845                                   1.093                                     0.810                                        0.288                0.947
+5            kg   8                    10.0               138                         0.507                           -1.897                       0.355                         -2.822                                0.899                                   1.524                                     0.819                                        0.370                0.920
+6            kg  10                    15.0               122                         0.451                           -3.046                       0.328                         -3.911                                0.934                                   1.974                                     0.820                                        0.509                0.813
+7            kg  12                    19.0                99                         0.455                           -4.315                       0.253                         -5.070                                0.929                                   2.571                                     0.828                                        0.672                0.660
+8   round_robin   6                     6.0               135                         0.607                           -0.366                       0.467                         -1.054                                0.807                                   0.868                                     0.800                                        0.275                0.900
+9   round_robin   8                    16.5               112                         0.571                           -1.766                       0.402                         -2.710                                0.848                                   1.298                                     0.804                                        0.462                0.747
+10  round_robin  10                    21.0                91                         0.560                           -2.267                       0.385                         -3.689                                0.857                                   1.903                                     0.780                                        0.625                0.607
+11  round_robin  12                    26.0                68                         0.515                           -5.142                       0.368                         -6.858                                0.868                                   2.880                                     0.794                                        0.723                0.453
+12     thompson   6                     4.0               148                         0.628                            0.133                       0.486                         -0.770                                0.858                                   1.099                                     0.804                                        0.323                0.987
+13     thompson   8                     9.0               140                         0.529                           -1.474                       0.436                         -2.369                                0.900                                   1.559                                     0.843                                        0.465                0.933
+14     thompson  10                    14.0               124                         0.476                           -2.541                       0.395                         -3.509                                0.911                                   2.086                                     0.790                                        0.589                0.827
+15     thompson  12                    19.0               100                         0.420                           -5.705                       0.330                         -6.312                                0.920                                   2.535                                     0.810                                        0.648                0.667

@@ -1,0 +1,37 @@
+loaded /Users/student/Desktop/ads_credibility/results/decision/geofence_gnn.pt
+[ 0] kappa=0.0 greedy=+0.1712  greedy_ls=+0.1712  gnn_greedy=+0.1595  gnn_sample=+0.1712  gnn_milp=+0.1712  ls_milp=+0.1712  milp=+0.1712
+[ 1] kappa=0.5 greedy=+0.0209  greedy_ls=+0.0212  gnn_greedy=+0.0163  gnn_sample=+0.0226  gnn_milp=+0.0228  ls_milp=+0.0217  milp=+0.0228
+[ 2] kappa=1.0 greedy=-0.0519  greedy_ls=-0.0508  gnn_greedy=-0.0723  gnn_sample=-0.0592  gnn_milp=-0.0419  ls_milp=-0.0437  milp=-0.0409
+[ 3] kappa=2.0 greedy=-0.2781  greedy_ls=-0.2742  gnn_greedy=-0.2900  gnn_sample=-0.2848  gnn_milp=-0.2601  ls_milp=-0.2581  milp=-0.2578
+[ 4] kappa=0.0 greedy=+0.1617  greedy_ls=+0.1617  gnn_greedy=+0.1534  gnn_sample=+0.1617  gnn_milp=+0.1617  ls_milp=+0.1617  milp=+0.1617
+[ 5] kappa=0.5 greedy=+0.0046  greedy_ls=+0.0053  gnn_greedy=-0.0058  gnn_sample=+0.0060  gnn_milp=+0.0060  ls_milp=+0.0065  milp=+0.0064
+[ 6] kappa=1.0 greedy=-0.1507  greedy_ls=-0.1486  gnn_greedy=-0.1563  gnn_sample=-0.1509  gnn_milp=-0.1398  ls_milp=-0.1398  milp=-0.1393
+[ 7] kappa=2.0 greedy=-0.1807  greedy_ls=-0.1792  gnn_greedy=-0.2169  gnn_sample=-0.1748  gnn_milp=-0.1748  ls_milp=-0.1769  milp=-0.1600
+[ 8] kappa=0.0 greedy=+0.1040  greedy_ls=+0.1040  gnn_greedy=+0.1040  gnn_sample=+0.1040  gnn_milp=+0.1040  ls_milp=+0.1040  milp=+0.1040
+[ 9] kappa=0.5 greedy=+0.0098  greedy_ls=+0.0103  gnn_greedy=+0.0075  gnn_sample=+0.0110  gnn_milp=+0.0111  ls_milp=+0.0107  milp=+0.0111
+[10] kappa=1.0 greedy=+0.0135  greedy_ls=+0.0135  gnn_greedy=-0.0078  gnn_sample=+0.0135  gnn_milp=+0.0204  ls_milp=+0.0183  milp=+0.0204
+[11] kappa=2.0 greedy=-0.1740  greedy_ls=-0.1732  gnn_greedy=-0.2130  gnn_sample=-0.1745  gnn_milp=-0.1573  ls_milp=-0.1573  milp=-0.1573
+[12] kappa=0.0 greedy=+0.1585  greedy_ls=+0.1589  gnn_greedy=+0.1696  gnn_sample=+0.1745  gnn_milp=+0.1750  ls_milp=+0.1634  milp=+0.1750
+[13] kappa=0.5 greedy=+0.0189  greedy_ls=+0.0190  gnn_greedy=+0.0144  gnn_sample=+0.0188  gnn_milp=+0.0193  ls_milp=+0.0193  milp=+0.0193
+[14] kappa=1.0 greedy=-0.0696  greedy_ls=-0.0681  gnn_greedy=-0.0817  gnn_sample=-0.0734  gnn_milp=-0.0662  ls_milp=-0.0662  milp=-0.0662
+[15] kappa=2.0 greedy=-0.1996  greedy_ls=-0.1984  gnn_greedy=-0.2436  gnn_sample=-0.2266  gnn_milp=-0.1930  ls_milp=-0.1842  milp=-0.1866
+[16] kappa=0.0 greedy=+0.1500  greedy_ls=+0.1517  gnn_greedy=+0.1440  gnn_sample=+0.1512  gnn_milp=+0.1522  ls_milp=+0.1522  milp=+0.1522
+[17] kappa=0.5 greedy=-0.0225  greedy_ls=-0.0221  gnn_greedy=-0.0490  gnn_sample=-0.0188  gnn_milp=-0.0167  ls_milp=-0.0194  milp=-0.0164
+[18] kappa=1.0 greedy=-0.0464  greedy_ls=-0.0461  gnn_greedy=-0.0586  gnn_sample=-0.0493  gnn_milp=-0.0424  ls_milp=-0.0424  milp=-0.0424
+[19] kappa=2.0 greedy=-0.1730  greedy_ls=-0.1721  gnn_greedy=-0.2016  gnn_sample=-0.1848  gnn_milp=-0.1555  ls_milp=-0.1532  milp=-0.1488
+[20] kappa=0.0 greedy=+0.1413  greedy_ls=+0.1413  gnn_greedy=+0.1831  gnn_sample=+0.1895  gnn_milp=+0.1905  ls_milp=+0.1561  milp=+0.1905
+[21] kappa=0.5 greedy=+0.0726  greedy_ls=+0.0726  gnn_greedy=+0.0710  gnn_sample=+0.0721  gnn_milp=+0.0726  ls_milp=+0.0726  milp=+0.0726
+[22] kappa=1.0 greedy=-0.0336  greedy_ls=-0.0330  gnn_greedy=-0.0437  gnn_sample=-0.0429  gnn_milp=-0.0277  ls_milp=-0.0277  milp=-0.0277
+[23] kappa=2.0 greedy=-0.0884  greedy_ls=-0.0866  gnn_greedy=-0.1385  gnn_sample=-0.1041  gnn_milp=-0.0850  ls_milp=-0.0782  milp=-0.0777
+            gap_best_pct  gap_bound_pct   time_s  feasible  wins
+method                                                          
+greedy            0.9285         1.0926   0.0296       1.0     4
+greedy_ls         0.8474         1.0115   0.0308       1.0     4
+gnn_greedy        2.2345         2.3986   0.0409       1.0     1
+gnn_sample        0.9812         1.1452   0.2011       1.0     3
+gnn_milp          0.1723         0.3363  12.5670       1.0    14
+ls_milp           0.3036         0.4676  11.4710       1.0    10
+milp              0.0104         0.1745  31.0432       1.0    22
+map greedy_ls: J=-0.0821
+map gnn_sample: J=-0.0860
+map milp: J=-0.0729

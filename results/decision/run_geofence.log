@@ -1,0 +1,79 @@
+step     0 ep 0 J_mean +0.0354  gap(best-of-B vs greedy+LS) +0.0912
+step    50 ep 0 J_mean -0.1046  gap(best-of-B vs greedy+LS) +0.0597
+step   100 ep 0 J_mean -0.0623  gap(best-of-B vs greedy+LS) +0.0244
+step   150 ep 0 J_mean -0.0325  gap(best-of-B vs greedy+LS) +0.0205
+step   200 ep 0 J_mean -0.0231  gap(best-of-B vs greedy+LS) +0.0133
+step   250 ep 0 J_mean -0.0394  gap(best-of-B vs greedy+LS) +0.0136
+step   300 ep 0 J_mean -0.0381  gap(best-of-B vs greedy+LS) +0.0144
+step   350 ep 0 J_mean -0.0459  gap(best-of-B vs greedy+LS) +0.0141
+step   400 ep 0 J_mean -0.0617  gap(best-of-B vs greedy+LS) +0.0151
+step   450 ep 0 J_mean -0.0403  gap(best-of-B vs greedy+LS) +0.0125
+step   500 ep 0 J_mean -0.0603  gap(best-of-B vs greedy+LS) +0.0144
+step   550 ep 0 J_mean -0.0059  gap(best-of-B vs greedy+LS) +0.0089
+step   600 ep 0 J_mean -0.0624  gap(best-of-B vs greedy+LS) +0.0160
+step   650 ep 0 J_mean +0.0016  gap(best-of-B vs greedy+LS) +0.0118
+step   700 ep 0 J_mean -0.0279  gap(best-of-B vs greedy+LS) +0.0107
+step   750 ep 0 J_mean -0.0180  gap(best-of-B vs greedy+LS) +0.0084
+step   800 ep 0 J_mean -0.0348  gap(best-of-B vs greedy+LS) +0.0095
+step   850 ep 0 J_mean -0.0080  gap(best-of-B vs greedy+LS) +0.0080
+step   900 ep 0 J_mean -0.0075  gap(best-of-B vs greedy+LS) +0.0075
+step   950 ep 0 J_mean -0.0166  gap(best-of-B vs greedy+LS) +0.0077
+step  1000 ep 0 J_mean -0.0386  gap(best-of-B vs greedy+LS) +0.0089
+step  1050 ep 0 J_mean -0.0367  gap(best-of-B vs greedy+LS) +0.0030
+step  1100 ep 0 J_mean -0.0283  gap(best-of-B vs greedy+LS) +0.0087
+step  1150 ep 0 J_mean -0.0100  gap(best-of-B vs greedy+LS) +0.0072
+step  1200 ep 1 J_mean -0.0131  gap(best-of-B vs greedy+LS) +0.0047
+step  1250 ep 1 J_mean -0.0348  gap(best-of-B vs greedy+LS) +0.0077
+step  1300 ep 1 J_mean -0.0131  gap(best-of-B vs greedy+LS) +0.0058
+step  1350 ep 1 J_mean +0.0145  gap(best-of-B vs greedy+LS) +0.0056
+step  1400 ep 1 J_mean -0.0096  gap(best-of-B vs greedy+LS) +0.0058
+step  1450 ep 1 J_mean -0.0307  gap(best-of-B vs greedy+LS) +0.0058
+step  1500 ep 1 J_mean -0.0059  gap(best-of-B vs greedy+LS) +0.0054
+step  1550 ep 1 J_mean -0.0463  gap(best-of-B vs greedy+LS) +0.0060
+step  1600 ep 1 J_mean +0.0102  gap(best-of-B vs greedy+LS) +0.0028
+step  1650 ep 1 J_mean -0.0603  gap(best-of-B vs greedy+LS) +0.0091
+step  1700 ep 1 J_mean -0.0508  gap(best-of-B vs greedy+LS) +0.0069
+step  1750 ep 1 J_mean -0.0242  gap(best-of-B vs greedy+LS) +0.0042
+step  1800 ep 1 J_mean -0.0325  gap(best-of-B vs greedy+LS) +0.0068
+step  1850 ep 1 J_mean -0.0141  gap(best-of-B vs greedy+LS) +0.0067
+step  1900 ep 1 J_mean -0.0282  gap(best-of-B vs greedy+LS) +0.0052
+step  1950 ep 1 J_mean -0.0244  gap(best-of-B vs greedy+LS) +0.0043
+step  2000 ep 1 J_mean -0.0293  gap(best-of-B vs greedy+LS) +0.0055
+step  2050 ep 1 J_mean -0.0089  gap(best-of-B vs greedy+LS) +0.0046
+step  2100 ep 1 J_mean -0.0073  gap(best-of-B vs greedy+LS) +0.0047
+step  2150 ep 1 J_mean -0.0361  gap(best-of-B vs greedy+LS) +0.0089
+step  2200 ep 1 J_mean -0.0508  gap(best-of-B vs greedy+LS) +0.0104
+step  2250 ep 1 J_mean -0.0140  gap(best-of-B vs greedy+LS) +0.0054
+step  2300 ep 1 J_mean -0.0237  gap(best-of-B vs greedy+LS) +0.0087
+step  2350 ep 1 J_mean -0.0149  gap(best-of-B vs greedy+LS) +0.0066
+[ 0] kappa=0.5 greedy=-0.0051  greedy_ls=-0.0029  gnn_greedy=-0.0205  gnn_sample=+0.0048  gnn_milp=+0.0053  milp=+0.0061
+[ 1] kappa=0.5 greedy=+0.0438  greedy_ls=+0.0438  gnn_greedy=+0.0433  gnn_sample=+0.0438  gnn_milp=+0.0438  milp=+0.0438
+[ 2] kappa=0.5 greedy=-0.0087  greedy_ls=-0.0087  gnn_greedy=-0.0099  gnn_sample=-0.0029  gnn_milp=-0.0002  milp=+0.0016
+[ 3] kappa=1.0 greedy=-0.1279  greedy_ls=-0.1231  gnn_greedy=-0.1345  gnn_sample=-0.1249  gnn_milp=-0.1113  milp=-0.1109
+[ 4] kappa=1.0 greedy=-0.0471  greedy_ls=-0.0468  gnn_greedy=-0.0639  gnn_sample=-0.0547  gnn_milp=-0.0484  milp=-0.0389
+[ 5] kappa=0.0 greedy=+0.0699  greedy_ls=+0.0712  gnn_greedy=+0.0743  gnn_sample=+0.0762  gnn_milp=+0.0806  milp=+0.0806
+[ 6] kappa=1.0 greedy=-0.0229  greedy_ls=-0.0224  gnn_greedy=-0.0499  gnn_sample=-0.0236  gnn_milp=-0.0227  milp=-0.0209
+[ 7] kappa=2.0 greedy=-0.2071  greedy_ls=-0.2068  gnn_greedy=-0.2384  gnn_sample=-0.2158  gnn_milp=-0.1848  milp=-0.1847
+[ 8] kappa=0.0 greedy=+0.1233  greedy_ls=+0.1233  gnn_greedy=+0.1145  gnn_sample=+0.1233  gnn_milp=+0.1233  milp=+0.1233
+[ 9] kappa=0.5 greedy=+0.0788  greedy_ls=+0.0805  gnn_greedy=+0.0722  gnn_sample=+0.0788  gnn_milp=+0.0805  milp=+0.0805
+[10] kappa=2.0 greedy=-0.1028  greedy_ls=-0.1021  gnn_greedy=-0.1222  gnn_sample=-0.1129  gnn_milp=-0.1015  milp=-0.0959
+[11] kappa=0.0 greedy=+0.1310  greedy_ls=+0.1310  gnn_greedy=+0.1225  gnn_sample=+0.1310  gnn_milp=+0.1310  milp=+0.1310
+[12] kappa=1.0 greedy=+0.0080  greedy_ls=+0.0088  gnn_greedy=-0.0116  gnn_sample=+0.0086  gnn_milp=+0.0118  milp=+0.0118
+[13] kappa=0.0 greedy=+0.1335  greedy_ls=+0.1346  gnn_greedy=+0.1222  gnn_sample=+0.1310  gnn_milp=+0.1353  milp=+0.1353
+[14] kappa=0.5 greedy=+0.0902  greedy_ls=+0.0902  gnn_greedy=+0.0871  gnn_sample=+0.0881  gnn_milp=+0.0954  milp=+0.0954
+[15] kappa=2.0 greedy=-0.0743  greedy_ls=-0.0730  gnn_greedy=-0.1010  gnn_sample=-0.0871  gnn_milp=-0.0728  milp=-0.0636
+[16] kappa=1.0 greedy=-0.1012  greedy_ls=-0.1006  gnn_greedy=-0.1293  gnn_sample=-0.1210  gnn_milp=-0.0932  milp=-0.0925
+[17] kappa=2.0 greedy=-0.0994  greedy_ls=-0.0979  gnn_greedy=-0.1775  gnn_sample=-0.1190  gnn_milp=-0.0753  milp=-0.0725
+[18] kappa=1.0 greedy=-0.0348  greedy_ls=-0.0339  gnn_greedy=-0.0634  gnn_sample=-0.0483  gnn_milp=-0.0281  milp=-0.0273
+[19] kappa=1.0 greedy=-0.1361  greedy_ls=-0.1355  gnn_greedy=-0.1510  gnn_sample=-0.1367  gnn_milp=-0.1183  milp=-0.1180
+            gap_best_pct  gap_bound_pct   time_s  feasible  wins
+method                                                          
+greedy            0.8228         1.0008   0.0368       1.0     3
+greedy_ls         0.7335         0.9115   0.0410       1.0     3
+gnn_greedy        2.4540         2.6320   0.0356       1.0     0
+gnn_sample        1.1567         1.3347   0.2488       1.0     3
+gnn_milp          0.1591         0.3371  13.1899       1.0     7
+milp              0.0000         0.1780  38.9265       1.0    20
+map greedy_ls: J=-0.0821
+map gnn_sample: J=-0.0860
+map milp: J=-0.0729

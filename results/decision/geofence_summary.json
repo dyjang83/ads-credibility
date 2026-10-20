@@ -1,0 +1,71 @@
+{
+  "holdout_city": "Denver",
+  "train_cities": [
+    "San Francisco",
+    "Phoenix",
+    "Los Angeles",
+    "Austin",
+    "Miami",
+    "Boston"
+  ],
+  "n_test": 24,
+  "milp_time_limit_s": 60.0,
+  "by_method": [
+    {
+      "method": "greedy",
+      "gap_best_pct": 0.9285057550188532,
+      "gap_bound_pct": 1.0925753406829986,
+      "time_s": 0.02961784201033879,
+      "feasible": 1.0,
+      "wins": 4
+    },
+    {
+      "method": "greedy_ls",
+      "gap_best_pct": 0.8474118491102126,
+      "gap_bound_pct": 1.011481434774358,
+      "time_s": 0.030808506834243115,
+      "feasible": 1.0,
+      "wins": 4
+    },
+    {
+      "method": "gnn_greedy",
+      "gap_best_pct": 2.234522606722504,
+      "gap_bound_pct": 2.3985921923866496,
+      "time_s": 0.04094720819072487,
+      "feasible": 1.0,
+      "wins": 1
+    },
+    {
+      "method": "gnn_sample",
+      "gap_best_pct": 0.981169566057526,
+      "gap_bound_pct": 1.1452391517216711,
+      "time_s": 0.201084890543522,
+      "feasible": 1.0,
+      "wins": 3
+    },
+    {
+      "method": "gnn_milp",
+      "gap_best_pct": 0.1722613172980394,
+      "gap_bound_pct": 0.3363309029621846,
+      "time_s": 12.567028321199663,
+      "feasible": 1.0,
+      "wins": 14
+    },
+    {
+      "method": "ls_milp",
+      "gap_best_pct": 0.3035793751751778,
+      "gap_bound_pct": 0.46764896083932306,
+      "time_s": 11.470998159488468,
+      "feasible": 1.0,
+      "wins": 10
+    },
+    {
+      "method": "milp",
+      "gap_best_pct": 0.010409439978650811,
+      "gap_bound_pct": 0.17447902564279602,
+      "time_s": 31.043205265547538,
+      "feasible": 1.0,
+      "wins": 22
+    }
+  ]
+}
