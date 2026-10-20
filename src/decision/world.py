@@ -10,8 +10,9 @@ three kernels the insurer may adopt are
     learned      S = V V^T            (cosine of city embeddings)
     euclidean    `_euclidean_kernel`  (median-heuristic RBF on the embeddings)
     independent  I
+    *_nugget     the first two plus NUGGET * I (see config.NUGGET)
 Ground truth: alpha ~ N(0, sigma^2 S_true), with S_true = S_learned under the
-"structured" DGP and I under the "null" DGP (specificity check, as in
+"structured" DGP and I under the "identity_null" DGP (specificity check, as in
 power_analysis.py).
 
 Cell level (MODELLING ASSUMPTION, not observed)
@@ -39,7 +40,7 @@ import numpy as np
 import pandas as pd
 
 from .config import (DATA, EMBED, SIGMA, BASE_RATE, JITTER, CELL_HDV_COEF,
-                     CELL_TAU, CELL_BANDWIDTH, REGION_SIZE, POOL_SIZE)
+                     CELL_TAU, CELL_BANDWIDTH, REGION_SIZE, POOL_SIZE, NUGGET)
 from data_generator import DEPLOYED_CITIES, HYPOTHETICAL_CITIES  # noqa: E402
 from power_analysis_ncities import _embedding_sampler, _euclidean_kernel  # noqa: E402
 
@@ -119,11 +120,9 @@ def _grow_region(adj: dict, start: str, size: int, rng=None) -> list:
     region, order, q = {start}, [start], deque([start])
     while q and len(order) < size:
         u = q.popleft()
-        nb = list(adj[u] - region)
+        nb = sorted(adj[u] - region)      # sort first: set order depends on the hash seed
         if rng is not None:
             rng.shuffle(nb)
-        else:
-            nb.sort()
         for v in nb:
             if len(order) >= size:
                 break
@@ -203,9 +202,11 @@ def city_pool(size: int = POOL_SIZE, seed: int = 0) -> CityPool:
         names += [f"Synthetic-{i:02d}" for i in range(n_extra)]
     template = [REAL_CITIES[int(np.argmax(C @ v))] for v in V]
     S_learned = V @ V.T
-    kernels = {"learned": S_learned,
-               "euclidean": _euclidean_kernel(V),
-               "independent": np.eye(len(V))}
+    S_eu = _euclidean_kernel(V)
+    I = np.eye(len(V))
+    kernels = {"learned": S_learned, "euclidean": S_eu, "independent": I,
+               "learned_nugget": S_learned + NUGGET * I,
+               "euclidean_nugget": S_eu + NUGGET * I}
     return CityPool(names, V, template, kernels)
 
 
@@ -232,7 +233,7 @@ class World:
 def sample_world(pool: CityPool, dgp: str, rng: np.random.Generator,
                  sigma: float = SIGMA, base_rate: float = BASE_RATE) -> World:
     S_true = {"structured": pool.kernels["learned"],
-              "null": np.eye(pool.K),
+              "identity_null": np.eye(pool.K),
               "euclidean_null": pool.kernels["euclidean"]}[dgp]
     Lc = np.linalg.cholesky(sigma ** 2 * S_true + JITTER * np.eye(pool.K))
     alpha = Lc @ rng.standard_normal(pool.K)
