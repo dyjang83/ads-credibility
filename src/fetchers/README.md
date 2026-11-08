@@ -33,10 +33,10 @@ Austin, Boston, Denver, Miami. Defined with bounding boxes and county FIPS in
 | `fhwa_fetcher` | FHWA Highway Statistics HM-72 | fhwa.dot.gov | none |
 
 The first three build the per-cell embedding features; `fhwa_fetcher` builds the
-per-city **exposure denominator** (urbanized-area VMT) used to turn HDV claim
-*counts* into *frequencies*. FHWA gives real exposure, not a claim count — the
+per-city exposure denominator (urbanized-area VMT) used to turn HDV claim
+counts into frequencies. FHWA gives real exposure, not a claim count — the
 absolute HDV claim level is still anchored to the published aggregate. All fetchers require outbound
-network on the **first** run and cache to `data/cache/` thereafter.
+network on the first run and cache to `data/cache/` thereafter.
 
 > If you set a Census API key: `export CENSUS_API_KEY=your_key_here`. Without
 > one, the keyless tier (500 calls/day) is more than enough for 7 cities.
@@ -59,7 +59,7 @@ python -m src.fetchers.fhwa_fetcher --year 2022 --out data/city_vmt.csv
 `assemble` writes three files: `cell_features.csv` (the embedding input,
 unchanged schema), `city_vmt.csv` (per-city FHWA VMT), and `cell_exposure.csv`
 (per-cell VMT, split by road mileage). By default the HDV-frequency target is
-anchored to the **unweighted** cell mean, so the emitted `cell_features.csv` is
+anchored to the unweighted cell mean, so the emitted `cell_features.csv` is
 identical to the pre-FHWA pipeline and existing results stand. Pass
 `--exposure-weighted-hdv` to instead anchor to the exposure-weighted mean using
 the real VMT denominator (the statistically correct target); this changes the
