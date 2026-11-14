@@ -26,7 +26,7 @@ ads_credibility/
 │   ├── run_analysis.py                end-to-end driver
 │   ├── make_figures.py                figure generation
 │   ├── ablation_hdv_kernel.py         §6.4 HDV-only-kernel baseline + embedding dimensionality
-│   ├── prior_sensitivity.py           §7 random-effect-scale prior sweep
+│   ├── prior_sensitivity.py           random-effect-scale prior sweep
 │   ├── loco_seed_robustness.py        across-seed summary
 │   ├── power_analysis.py              §6.5 claim-volume and number-of-cities power curves
 │   └── fetchers/                      public-data pipeline (OSM / ACS / FARS / FHWA)
@@ -97,13 +97,13 @@ proves the assembled output is schema- and dtype-identical across runs.
 
 Reproduce end-to-end:
 ```bash
-python -m src.fetchers.assemble                # real features + FHWA exposure
+python -m src.fetchers.assemble          
 python -m src.fetchers.sgo_fetcher --out data --operator 'Waymo LLC'
 python src/embedding.py --data-dir data --out results/embedding --epochs 30
-python src/run_analysis.py                     # refit + prospective + canonical LOCO
-python src/ablation_hdv_kernel.py              # HDV-only kernel + ablation summary
-python src/loco_seed_robustness.py             # Table 6 across-seed summary
-python src/power_analysis.py                   # Section 6.5 power analysis
-python src/prior_sensitivity.py                # Section 7 sensitivity
-python src/make_figures.py                     # all figures, incl. fig_08, fig_09
+python src/run_analysis.py     
+python src/ablation_hdv_kernel.py       
+python src/loco_seed_robustness.py     
+python src/power_analysis.py           
+python src/prior_sensitivity.py               
+python src/make_figures.py                
 ```# ads-credibility
